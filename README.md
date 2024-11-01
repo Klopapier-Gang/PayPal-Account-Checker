@@ -13,5 +13,3 @@
 -  `Install Python3`
 -  `Download this repo`
 -  `run checker.py`
-
-A
